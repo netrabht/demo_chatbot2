@@ -1,0 +1,32 @@
+Vegetable Name : फूलकोबी समूह (फूलकोबी, बन्दाकोबी, ब्रोकाउली, मूला, रायो, सलगम, ग्याँठकोबी आदि)
+Diseases : 
+ - अल्टरनेरिया थोप्ले (Altenaria Leaf Spot)
+ - डाँठ कुहिने रोग ( Sclerotinia Rot)
+ - नसा कालो भई  कुहिने (Black rot)
+ - डाउन मिल्ड्यू (Downy mildew)
+ - टर्निप मोज्याक भाइरस (Turnip mosaic)
+ - क्लब रुट (गदा जस्तो जरा हुने) (Club Root)
+
+Vegetable Name : आलु
+Diseases : 
+ - डढुवा रोग (Leaf blight)
+ - ऐजेरु (Wart disease)
+ - ओइलाउने वा खैरो पिप चक्के रोग (Brown rot)
+ - दादे रोग (Common  scab)
+
+Vegetable Name : गोलभेंडा र खुर्सानी वर्गका बाली
+Diseases :
+ - डढुवा रोग (Leaf blight)
+ - टोमाटो मोज्याक भाइरस (Mosaic Virus)
+ - लीफ कर्ल भाइरस (पात घुम्रिने रोग) (Leaf Curl Virus)
+ - डढुवा (Phomopsis Blight)
+ - ओइलाउने रोग (Wilt)
+ - जरामा गाँठा पर्ने रोग (Root Knot Nematode)
+ - कोत्रे रोग (Anthracnose)
+
+Vegetable Name : सिमी
+Diseases :
+ - सिन्दुरे रोग ( Rust)
+ - धुले ढुसी / खराने (Powdery mildew)
+ - मोज्याक भाइरस (Mosaic virus)
+ - एन्थ्र्याकनोज  (Anthracnose)
